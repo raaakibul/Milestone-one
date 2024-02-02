@@ -23,3 +23,13 @@ h1{
     border: 3px solid gray;
     border-radius: 7px;
 }
+.third-header{
+    color: brown;
+    background-color:gold;
+    height: 80px;
+    width: 75%;
+    font-size: 25px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
