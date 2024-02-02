@@ -12,3 +12,14 @@ p{
 h1{
     color: #a775ad;
 }
+#second-header{
+    color: royalblue;
+    background-color: yellow;
+    height: 100px;
+    width: 75%;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border: 3px solid gray;
+    border-radius: 7px;
+}
