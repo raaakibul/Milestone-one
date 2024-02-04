@@ -14,3 +14,8 @@ body{
 .author-name{
     color: red;
 }
+
+/* block, inline, inline-block  */
+.blog-title{
+    text-align: center;
+}
